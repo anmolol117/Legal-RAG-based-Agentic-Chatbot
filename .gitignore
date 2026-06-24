@@ -1,0 +1,34 @@
+# Environment
+.env
+
+# ChromaDB persistence
+chroma_db/
+
+# Large local datasets
+Data Sources/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Model cache (optional, can be large)
+# ~/.cache/huggingface/
