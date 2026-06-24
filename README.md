@@ -2,6 +2,8 @@
 
 A professional, retrieval-augmented generation (RAG) powered chatbot specialized in Indian law. This system uses advanced semantic chunking, multi-query retrieval, and cross-encoder reranking to provide highly accurate, source-backed answers to legal queries.
 
+<img width="1512" height="799" alt="Screenshot 2026-06-24 at 3 55 39 PM" src="https://github.com/user-attachments/assets/821220f2-33c6-4592-94a1-3b201829b017" />
+
 ## Data Sources 
 
 * India Code: https://www.indiacode.nic.in
