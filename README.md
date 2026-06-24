@@ -2,6 +2,14 @@
 
 A professional, retrieval-augmented generation (RAG) powered chatbot specialized in Indian law. This system uses advanced semantic chunking, multi-query retrieval, and cross-encoder reranking to provide highly accurate, source-backed answers to legal queries.
 
+## Data Sources 
+
+* India Code: https://www.indiacode.nic.in
+* Constitution: https://cdnbbsr.s3waas.gov.in/s380537a945c7aaa788ccfcdf1b99b5d8f/uploads/2024/07/20240716890312078.pdf
+* Supreme Court Judgments: https://www.kaggle.com/datasets/vangap/indian-supreme-court-judgments/data
+* RBI Circulars: https://www.rbi.org.in
+* SEBI Regulations: https://www.sebi.gov.in/legal.html
+
 ## Architecture
 
 *   **LLM:** Local `llama3.1` (via Ollama & `langchain-ollama`)
